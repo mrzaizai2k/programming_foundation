@@ -1,0 +1,4 @@
+https://github.com/joelgrus/data-science-from-scratch
+https://github.com/jakevdp/PythonDataScienceHandbook
+https://jakevdp.github.io/PythonDataScienceHandbook/
+https://github.com/LTSACH/Programming4AInDS
